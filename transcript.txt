@@ -1,0 +1,2801 @@
+Transcript: transcript.json
+Generated at: 2025-01-28 00:23:31
+================================================================================
+
+
+[Speaker 1]
+0:00:00 --> 0:00:03
+This message comes from NPR sponsor Sony Pictures Classics.
+
+0:00:03 --> 0:00:09
+I'm still here from filmmaker Walter Salas is the true story of one family's resilience
+
+0:00:09 --> 0:00:15
+when a dictatorship attempts to tear them apart, led by a golden globe winning performance by
+
+0:00:15 --> 0:00:17
+Fernando Torres, now playing Select Cities.
+
+
+[Speaker 5]
+0:00:30 --> 0:00:34
+Coming back into your workday, so you have flexibility to focus on more important things.
+
+0:00:34 --> 0:00:42
+Stamps.com can handle your mailing and shipping needs with rates up to 88% off UPS and USPS.
+
+0:00:42 --> 0:00:48
+Send invoices, checks, certified mail, packages, and anything else you need to keep your business
+
+0:00:48 --> 0:00:53
+running with stamps.com. If you sell online, connecting with every major marketplace and shopping
+
+0:00:53 --> 0:00:58
+card is easy. Plus, you can schedule package pickups through their dashboard and automatically
+
+0:00:58 --> 0:01:03
+see your cheapest and fastest shipping options from different carriers with stamps.com's
+
+0:01:03 --> 0:01:08
+rate advisor. Add more flexibility to your workday with stamps.com.
+
+0:01:08 --> 0:01:12
+Go to stamps.com slash program to sign up for a special offer.
+
+0:01:12 --> 0:01:17
+No contract, cancel anytime. That stamps.com slash program.
+
+
+[Speaker 11]
+0:01:17 --> 0:01:29
+Let the wealth of the nation belong to all the people and not just the millionaires.
+
+0:01:33 --> 0:01:39
+The ruling class has always taught and trained you to believe it to be your patriotic duty
+
+0:01:39 --> 0:01:42
+to go to war and to have yourself slaughtered at that command.
+
+0:01:42 --> 0:01:48
+But in all the history of the world, you the people have never had a voice in declaring war.
+
+0:01:52 --> 0:01:58
+We need in this country and throughout the world an economic system in which we produce goods
+
+0:01:58 --> 0:02:05
+and services for the use of all and not for the profit of the few.
+
+
+[Speaker 10]
+0:02:12 --> 0:02:15
+The president spent a lot of time using the S word.
+
+0:02:15 --> 0:02:25
+Here in the United States, we are alarmed by the new calls to adopt socialism in our country.
+
+0:02:25 --> 0:02:27
+They're trying to say, scare people.
+
+
+[Speaker 1]
+0:02:27 --> 0:02:28
+Scare people.
+
+0:02:28 --> 0:02:31
+And then as well, it says, we're going to be living in Venice,
+
+0:02:31 --> 0:02:32
+where we're going to be living.
+
+
+[Speaker 10]
+0:02:32 --> 0:02:35
+Attitudes are changing towards socialism.
+
+0:02:35 --> 0:02:38
+You've heard the phrase a lot lately, democratic socialist.
+
+0:02:38 --> 0:02:42
+It's suddenly very common on the left, where any Sanders has called himself a democratic socialist.
+
+0:02:42 --> 0:02:46
+Every other industrialization has a strong socialist movement.
+
+0:02:46 --> 0:02:47
+Why not in America?
+
+
+[Speaker 9]
+0:02:49 --> 0:02:52
+You're listening to Thru Line from NPR.
+
+0:02:52 --> 0:02:53
+Where we go back in time.
+
+0:02:55 --> 0:02:56
+To understand the present.
+
+
+[Speaker 7]
+0:02:59 --> 0:03:01
+Hey, I'm Ramteen Adabluy.
+
+
+[Speaker 9]
+0:03:01 --> 0:03:02
+I'm Ramda Difatta.
+
+
+[Speaker 7]
+0:03:02 --> 0:03:06
+And on this episode, American socialism.
+
+
+[Speaker 9]
+0:03:09 --> 0:03:15
+As you probably guessed, that voice at the top was Bernie Sanders.
+
+0:03:16 --> 0:03:20
+But it's not a clip from one of his presidential rallies or some speeches,
+
+0:03:20 --> 0:03:23
+or even from his time in the Senate or his mayor in Vermont.
+
+0:03:23 --> 0:03:26
+In fact, they aren't even his words.
+
+0:03:26 --> 0:03:30
+He was reciting a speech by Eugene V. Debs.
+
+
+[Speaker 3]
+0:03:30 --> 0:03:33
+Well, political heroes was not a politician,
+
+0:03:33 --> 0:03:36
+Martin Luther King, Jr. was an extraordinary leader.
+
+0:03:36 --> 0:03:39
+So I have an enormous respect for Dr. King.
+
+0:03:40 --> 0:03:42
+Also, you know, for Eugene Debs,
+
+0:03:42 --> 0:03:48
+who was the great socialist party leader in the early part of the 20th century.
+
+
+[Speaker 9]
+0:03:48 --> 0:03:52
+And you can hear it in his voice, his admiration for this guy, Eugene Debs.
+
+0:03:53 --> 0:03:58
+Most of these recordings are from a documentary Sanders made in 1979 about Debs.
+
+0:03:59 --> 0:04:00
+That used to be his job.
+
+0:04:00 --> 0:04:04
+He ran a company that made educational documentaries and sold them to schools.
+
+
+[Speaker 7]
+0:04:05 --> 0:04:09
+As far as documentaries go, it's all right.
+
+
+[Speaker 9]
+0:04:09 --> 0:04:10
+A little dry maybe.
+
+0:04:11 --> 0:04:15
+But what interests us more is why Sanders was so into Eugene Debs.
+
+
+[Speaker 7]
+0:04:20 --> 0:04:24
+Well, he founded the socialist party of America in 1901,
+
+0:04:24 --> 0:04:29
+and ran for president of the United States five times in the early 20th century.
+
+0:04:29 --> 0:04:36
+Until 2016, Debs was the most prominent and somewhat successful socialist candidate for president.
+
+0:04:36 --> 0:04:38
+And that was 100 years ago.
+
+
+[Speaker 9]
+0:04:41 --> 0:04:44
+Today, socialism is often seen as a foreign concept.
+
+0:04:45 --> 0:04:49
+It's kind of a dirty word in our politics, almost a synonym for un-American.
+
+0:04:50 --> 0:04:54
+But the story of Debs shows how socialism played a role in the US
+
+0:04:54 --> 0:04:56
+way before the Red Scare or the Cold War.
+
+0:04:57 --> 0:05:00
+And left a lasting imprint on American politics.
+
+
+[Speaker 7]
+0:05:03 --> 0:05:07
+So in this episode, we're going to look back at the early tradition of American socialism
+
+0:05:08 --> 0:05:12
+through the eyes of its founding father, Eugene Debs.
+
+
+[Speaker 4]
+0:05:27 --> 0:05:37
+Hi, this is Menlego LaCalle Agri from Mexico City, Mexico,
+
+0:05:37 --> 0:05:40
+and you are listening to Through Line from NPR.
+
+
+[Speaker 2]
+0:05:44 --> 0:05:49
+Support for this podcast and the following message come from the Southern Environmental Law Center.
+
+0:05:49 --> 0:05:52
+Right now, the world is at a crossroads for the environment,
+
+0:05:52 --> 0:05:55
+and SELC is ready to tackle the challenges ahead.
+
+0:05:55 --> 0:05:58
+Ready to hold the line on environmental protections.
+
+0:05:58 --> 0:06:03
+Ready to ensure people have the clean air, clean water, and healthy climate they deserve.
+
+0:06:03 --> 0:06:06
+And ready to stand up to powerful interests in the courtroom,
+
+0:06:06 --> 0:06:09
+the halls of government, and communities across the South.
+
+0:06:09 --> 0:06:12
+To learn more, visit Southernenvironment.org.
+
+
+[Speaker 7]
+0:06:15 --> 0:06:18
+Part 1. The Gilded Cage
+
+
+[Speaker 9]
+0:06:18 --> 0:06:22
+In 1894, when he was 38 years old,
+
+0:06:22 --> 0:06:28
+Eugene Debs went toe-to-toe with a massive company, risking everything.
+
+
+[Speaker 8]
+0:06:28 --> 0:06:34
+This is the event that transformed Debs into a symbol of national discontent.
+
+
+[Speaker 9]
+0:06:34 --> 0:06:50
+At the time, the whole country was feeling an economic depression,
+
+0:06:50 --> 0:06:52
+including the most dominant industry of the day.
+
+0:06:56 --> 0:06:56
+Railroads
+
+0:06:57 --> 0:07:09
+One manufacturer of Railroad cars, the Pullman Palace car company, was really feeling the burn.
+
+0:07:09 --> 0:07:13
+The company was known for introducing a new kind of train car.
+
+
+[Speaker 8]
+0:07:13 --> 0:07:17
+These very luxurious train cars that transform rail travel.
+
+
+[Speaker 9]
+0:07:17 --> 0:07:19
+Chandeliers hung from the ceiling.
+
+0:07:19 --> 0:07:21
+The seats were covered in plush upholstery.
+
+0:07:21 --> 0:07:24
+The walls painted with intricate designs.
+
+0:07:24 --> 0:07:29
+And at night, the cars transformed into a two-story hotel on wheels.
+
+
+[Speaker 8]
+0:07:30 --> 0:07:36
+And all of these cars were built in Holman, Illinois, a very original name for a company town.
+
+
+[Speaker 9]
+0:07:36 --> 0:07:41
+On Chicago's south side, Pullman was a company town through and through.
+
+
+[Speaker 8]
+0:07:41 --> 0:07:47
+Basically, factory workers who built the cars had to rent their homes from the company.
+
+0:07:47 --> 0:07:50
+By their groceries from company stores, send their kids to company schools,
+
+0:07:50 --> 0:07:52
+who's even a company church.
+
+0:07:52 --> 0:08:01
+And George Pullman, the guy, had justified the community as an experiment in benevolent capitalism.
+
+0:08:01 --> 0:08:06
+Like, look at the brick homes, the paved streets, the trash collection, the indoor plumbing,
+
+0:08:06 --> 0:08:10
+what a clean, orderly way to live that are results in happier and more productive workers.
+
+
+[Speaker 9]
+0:08:10 --> 0:08:13
+And the living standards were better than average.
+
+
+[Speaker 8]
+0:08:13 --> 0:08:16
+But it was also described as a sort of gilded cage.
+
+0:08:17 --> 0:08:23
+Because workers feared speaking out about their working conditions, because you could just get fired.
+
+0:08:23 --> 0:08:25
+You know, there's no protections for you at this point.
+
+
+[Speaker 7]
+0:08:28 --> 0:08:33
+During the economic downturn, things went from bad to worse for these workers.
+
+
+[Speaker 8]
+0:08:33 --> 0:08:39
+In order to keep turning a profit, and not cut executive salaries or shareholder payouts,
+
+
+[Speaker 7]
+0:08:39 --> 0:08:40
+Holman slashed worker wages.
+
+0:08:40 --> 0:08:46
+In some cases, by up to half, without cutting rents, grocery costs, or utility costs.
+
+0:08:46 --> 0:08:48
+So workers just couldn't make ends meet.
+
+0:08:49 --> 0:08:50
+And they were getting desperate.
+
+
+[Speaker 8]
+0:08:51 --> 0:08:56
+Workers had been feinting on the job, having not eaten in days after feeding their kids.
+
+0:08:56 --> 0:08:58
+That's how awful the situation was.
+
+0:09:02 --> 0:09:08
+There's a famous political cartoon of George Pullman, pushing the crank that is squeezing
+
+0:09:08 --> 0:09:10
+a worker between these two massive stones.
+
+0:09:11 --> 0:09:14
+And it's as low wages and as high housing costs.
+
+0:09:16 --> 0:09:25
+My name is Allison Dirk. I am the director at the Eugene V. Debs Museum in TeraHot.
+
+
+[Speaker 7]
+0:09:26 --> 0:09:32
+As the Pullman workers grew more and more frustrated, many decided to join the American Railway Union,
+
+0:09:32 --> 0:09:38
+the ARU, a powerful industrial union with as many as 250,000 members in 27 states
+
+0:09:39 --> 0:09:42
+that was founded and run by Eugene Debs.
+
+
+[Speaker 6]
+0:09:42 --> 0:09:48
+And that's what led him into really the most important labor conflict of the 19th century in the
+
+
+[Speaker 7]
+0:09:48 --> 0:09:53
+United States. This is Ernest Freiberg. He's a history professor at the University of Tennessee
+
+
+[Speaker 6]
+0:09:53 --> 0:09:59
+in Maxwell. And I'm the author of Democracy's Prisoner, Eugene Debs, The Great War, and the Right to
+
+
+[Speaker 7]
+0:10:00 --> 0:10:13
+In May 1894, 3,000 Pullman workers, after months of being fed up, lay down their tools,
+
+
+[Speaker 6]
+0:10:13 --> 0:10:19
+walk out of the shops, say, Pullman, we can't go back to our jobs until you reconsider
+
+0:10:19 --> 0:10:24
+a wage as encoder rents so we can afford to live and feed our children.
+
+0:10:25 --> 0:10:30
+Pullman wouldn't budge, insisting that there was nothing to arbitrate. That's the quote.
+
+0:10:32 --> 0:10:40
+After this refusal to negotiate, the workers with debt support, called for a massive strike.
+
+
+[Speaker 3]
+0:10:41 --> 0:10:48
+Every railroad employee of the country should take his stand against the corporations in this fight
+
+0:10:48 --> 0:10:57
+for if it should be lost, corporations will have despotic sway and all employees will be reduced to a condition
+
+0:10:57 --> 0:11:00
+scarcely removed above chattel slavery.
+
+
+[Speaker 7]
+0:11:05 --> 0:11:11
+The New York Times reported the labor powers have spoken and the most tremendous strike known to history
+
+0:11:11 --> 0:11:17
+will be inaugurated tomorrow when the evening whistles blow and a hundred thousand men abandon their work
+
+0:11:17 --> 0:11:22
+not to return. It is said until the Pullman boycott is settled.
+
+
+[Speaker 6]
+0:11:22 --> 0:11:26
+This is huge. This is huge. Debs is in practically every major paper at this point when
+
+0:11:26 --> 0:11:31
+basking him as dictator Debs, but also as the anarchists and it's like pick one,
+
+0:11:31 --> 0:11:34
+you can't be an anarchist and a dictator.
+
+
+[Speaker 7]
+0:11:38 --> 0:11:41
+The next day, the strike began.
+
+
+[Speaker 6]
+0:11:42 --> 0:11:47
+And that effectively is a shutdown of the railroads.
+
+
+[Speaker 4]
+0:11:47 --> 0:11:53
+From Chicago west for some days and really paralyze the American economy.
+
+
+[Speaker 6]
+0:11:53 --> 0:11:59
+If this happened today or something like it happened today, it would look like unions shutting down half the
+
+0:11:59 --> 0:12:04
+opores and interstates in this country because that's the level of activity happening on the rail by then.
+
+0:12:04 --> 0:12:07
+So it's just wild.
+
+
+[Speaker 3]
+0:12:07 --> 0:12:14
+I am perfectly confident of success. We cannot fail.
+
+
+[Speaker 7]
+0:12:14 --> 0:12:19
+Debs urged the strikers to remain calm and united.
+
+
+[Speaker 1]
+0:12:19 --> 0:12:23
+I, Grover Cleveland, president of the United States.
+
+
+[Speaker 4]
+0:12:23 --> 0:12:26
+Grover Cleveland announced that he was not going to let this happen.
+
+
+[Speaker 1]
+0:12:26 --> 0:12:32
+To hereby command all persons engaged in or in any way connected with such unlawful obstructions,
+
+0:12:32 --> 0:12:38
+combinations and assemblages to disperse and retire peaceably to their respective
+
+0:12:38 --> 0:12:44
+abodes on or before 3 o'clock in the afternoon of the 10th day of July instant.
+
+
+[Speaker 7]
+0:12:49 --> 0:12:51
+But the workers didn't back down.
+
+0:12:51 --> 0:12:58
+So then the federal courts issued an injunction saying that the ARU is not allowed to strike like that.
+
+
+[Speaker 4]
+0:12:58 --> 0:13:03
+Ordered Debs to essentially stop the strike, which he refused to do.
+
+
+[Speaker 6]
+0:13:03 --> 0:13:11
+The next day Grover Cleveland, for whom Debs campaigned as a pro-labor Democratic president.
+
+
+[Speaker 4]
+0:13:11 --> 0:13:16
+He sent in troops.
+
+
+[Speaker 6]
+0:13:16 --> 0:13:22
+They are going to try to make the trains move by using force to get the strikers away from the trains and the rails
+
+0:13:22 --> 0:13:29
+so that scout workers can operate the engines and make the trains move basically.
+
+0:13:29 --> 0:13:34
+And it's nuts, honestly.
+
+
+[Speaker 5]
+0:13:38 --> 0:13:41
+Approximately 30 workers were killed.
+
+
+[Speaker 6]
+0:13:41 --> 0:13:45
+About half of those workers are thought to have been killed in Chicago.
+
+
+[Speaker 5]
+0:13:45 --> 0:13:51
+Hundreds more were arrested and skirmishes erupting across the nation.
+
+0:13:53 --> 0:13:57
+The strike had failed.
+
+0:13:57 --> 0:14:02
+It's estimated that nearly 250,000 workers took part in the strike.
+
+0:14:02 --> 0:14:06
+And afterwards, many of them were like jobless.
+
+
+[Speaker 6]
+0:14:06 --> 0:14:10
+Essentially thousands of these workers were blacklisted.
+
+
+[Speaker 5]
+0:14:10 --> 0:14:13
+The Pullman Company continued on, business as usual.
+
+0:14:13 --> 0:14:20
+And some say the strike pushed Grover Cleveland to create a holiday in honor of workers called Labor Day.
+
+0:14:21 --> 0:14:23
+As for Debs' union?
+
+
+[Speaker 6]
+0:14:23 --> 0:14:26
+This was a, well, the gutting defeat for the American Railway Union.
+
+0:14:26 --> 0:14:28
+It never recovered.
+
+0:14:28 --> 0:14:33
+The whole leadership of the ARU was jailed on contemptive court.
+
+0:14:33 --> 0:14:35
+Debs got six months.
+
+
+[Speaker 4]
+0:14:35 --> 0:14:44
+And it was really there while he was sitting in prison for that six months that he started to think about what had just happened to him.
+
+
+[Speaker 7]
+0:14:44 --> 0:14:47
+How did Debs get to this moment?
+
+0:14:47 --> 0:14:54
+Sitting in jail, workers dead, and so many others out of work because of a strike he encouraged.
+
+
+[Unknown Speaker]
+0:14:55 --> 0:14:56
+The
+
+
+[Speaker 4]
+0:15:12 --> 0:15:14
+Pink grew up in Teraho, Indiana.
+
+
+[Speaker 6]
+0:15:14 --> 0:15:19
+Teraho was a frontier community of about five, seven thousand,
+
+0:15:20 --> 0:15:23
+made up in large part of immigrants, European immigrants.
+
+0:15:23 --> 0:15:26
+His family put a really high emphasis on education.
+
+0:15:26 --> 0:15:34
+Actually, his father had studied literature back in France and raised his children on writers like Victor Hugo and Voltaire.
+
+
+[Speaker 2]
+0:15:34 --> 0:15:44
+There is a point at which the unfortunate and the famous, associated and confounded in a single word, a far out word.
+
+
+[Speaker 6]
+0:15:44 --> 0:15:48
+Debs' favorite book from his childhood was a short one.
+
+0:15:48 --> 0:15:50
+Les Miserables.
+
+
+[Speaker 7]
+0:15:50 --> 0:15:51
+Les Miserables.
+
+0:15:51 --> 0:15:54
+Les Miserables is one of the longest novels in history.
+
+0:15:54 --> 0:15:57
+At a whopping 1,900 pages.
+
+0:15:57 --> 0:16:02
+It's a tragic tale of love and loss set during the French Revolution.
+
+
+[Speaker 6]
+0:16:02 --> 0:16:08
+The story of Jean-Valjant, right, who stole the loaf of bread and goes to prison for 18 years, and that's just the beginning.
+
+0:16:08 --> 0:16:17
+So the novel's themes of poverty and inequality and injustice had a huge role in shaping desceces of social responsibility.
+
+0:16:18 --> 0:16:24
+As he's growing up, you could say an early education in the haves and the have-nots.
+
+
+[Speaker 7]
+0:16:24 --> 0:16:28
+He also read Walt Whitman, Thomas Payne, Thomas Jefferson,
+
+0:16:28 --> 0:16:34
+and he drew a lot of inspiration from the abolitionist generation.
+
+
+[Speaker 4]
+0:16:34 --> 0:16:42
+He came to think of the anti-slavery movement as a crucial revolutionary turning point in America.
+
+0:16:42 --> 0:16:50
+And when he looked at what was going on in his own time, what we call the Guilded Age or the early progressive era,
+
+0:16:50 --> 0:16:55
+he saw a new kind of slavery, wage slavery.
+
+
+[Speaker 5]
+0:16:57 --> 0:17:02
+Rapid industrialization was transforming cities across the US.
+
+0:17:02 --> 0:17:04
+And as businesses were getting bigger and bigger.
+
+
+[Speaker 6]
+0:17:04 --> 0:17:08
+Your relationship with your employer is getting a lot smaller.
+
+
+[Speaker 4]
+0:17:08 --> 0:17:14
+People were being tied to their jobs. They were denied a democratic voice in the way they made a living.
+
+
+[Speaker 6]
+0:17:14 --> 0:17:19
+Working like 14, 16-hour days, six, seven days a week.
+
+
+[Speaker 5]
+0:17:19 --> 0:17:25
+He watched as his dad got caught in a system, struggling to keep up with his demanding job.
+
+
+[Speaker 6]
+0:17:25 --> 0:17:29
+And the work broke his health, as it would for so many workers.
+
+0:17:29 --> 0:17:35
+And that's actually why the devs go into the grocery business.
+
+0:17:35 --> 0:17:37
+By the time he was 14...
+
+
+[Speaker 5]
+0:17:37 --> 0:17:40
+Debs was losing interest in his family's grocery store.
+
+0:17:40 --> 0:17:45
+He just wasn't cut out for running a business, which even his dad couldn't deny.
+
+0:17:45 --> 0:17:50
+Debs missed important details, weighing things to give the customer a little extra,
+
+0:17:50 --> 0:17:52
+and letting people buy on credit.
+
+0:17:52 --> 0:17:58
+Plus, his mind seemed focused on something else, the growing world of railroads.
+
+0:17:58 --> 0:18:04
+He saw that as a ticket out, a way firm to help feed his family, and make his own way in the world.
+
+
+[Speaker 6]
+0:18:05 --> 0:18:08
+And against his parents' wishes, because Gene was a really good student,
+
+0:18:08 --> 0:18:13
+he dropped out of high school at age 14 to start working for the Terahode in Indianapolis Railroad.
+
+
+[Speaker 5]
+0:18:15 --> 0:18:22
+Then, Debs lost his job in an economic panic, and decided to leave Terahode in search of work.
+
+
+[Speaker 7]
+0:18:23 --> 0:18:29
+He got a job working on a railroad in East St. Louis, and was shocked by what he found there.
+
+
+[Speaker 6]
+0:18:30 --> 0:18:37
+He witnessed real poverty, that he hadn't quite experienced or been witnessed to in Terahode.
+
+0:18:38 --> 0:18:42
+He wrote to his parents that it made his heart ache to go along with some of the main streets in the city,
+
+0:18:42 --> 0:18:45
+and see men, women, and children begging for something to eat.
+
+0:18:46 --> 0:18:52
+And he invited to his sisters and brother that they should appreciate their comfortable home and understanding parents.
+
+0:18:53 --> 0:18:56
+I did not, he confessed, until I came over here.
+
+
+[Speaker 7]
+0:18:57 --> 0:19:03
+All the books from his youth couldn't prepare him for seeing the economic disparity up close in person.
+
+0:19:03 --> 0:19:09
+And despite his parents' insistence that he come home, he stayed in East St. Louis.
+
+0:19:16 --> 0:19:20
+One day, while he was working, something terrible happened.
+
+
+[Speaker 6]
+0:19:26 --> 0:19:35
+Debs watched in horror, as the backing locomotive crushed a front to death.
+
+
+[Speaker 7]
+0:19:40 --> 0:19:45
+This wasn't a free accident. On the job injuries happened a lot.
+
+
+[Speaker 6]
+0:19:46 --> 0:19:50
+This is a time when there are no safety standards to speak of.
+
+0:19:50 --> 0:19:56
+Employers are skimping on cheap equipment to save money, even as revereds are expanding so rapidly.
+
+0:19:57 --> 0:20:00
+Causing boiler explosions and derailments.
+
+
+[Speaker 5]
+0:20:00 --> 0:20:03
+collisions, making hazards like this not uncommon at all,
+
+0:20:03 --> 0:20:07
+is just considered part of the occupation.
+
+0:20:07 --> 0:20:09
+And according to Debs, this death plus his mother's
+
+0:20:09 --> 0:20:12
+continuing concern for his safety prompted him to quit
+
+0:20:12 --> 0:20:13
+the railroad.
+
+
+[Speaker 7]
+0:20:20 --> 0:20:22
+Back in Terrahode, Debs became determined
+
+0:20:22 --> 0:20:25
+to improve working conditions for rail workers.
+
+0:20:25 --> 0:20:28
+And decided the way to do that was to get involved in
+
+0:20:28 --> 0:20:30
+government.
+
+
+[Speaker 5]
+0:20:30 --> 0:20:35
+So he runs for city clerk of Terrahode and wins pretty
+
+0:20:35 --> 0:20:36
+handily.
+
+0:20:36 --> 0:20:39
+And while he was working as city clerk,
+
+0:20:39 --> 0:20:42
+kind of got a reputation for refusing to assess
+
+0:20:42 --> 0:20:45
+fines against sex workers, because he didn't think it
+
+0:20:45 --> 0:20:47
+was fair that they would be punished while the people
+
+0:20:47 --> 0:20:51
+who bought their services were not.
+
+0:20:51 --> 0:20:55
+So he serves actually two terms as city clerk and then
+
+0:20:55 --> 0:20:58
+gets elected as a state rep in the Indiana General
+
+0:20:58 --> 0:21:00
+Assembly.
+
+
+[Speaker 7]
+0:21:00 --> 0:21:03
+And the story here goes, Debs went to the state house
+
+0:21:03 --> 0:21:05
+and introduced legislation.
+
+
+[Speaker 5]
+0:21:05 --> 0:21:08
+To hold railroads liable for deaths and injuries
+
+0:21:08 --> 0:21:11
+of their employees.
+
+0:21:11 --> 0:21:15
+The house passes the one particular bill.
+
+0:21:15 --> 0:21:18
+The state senate takes the teeth out through amendments,
+
+0:21:18 --> 0:21:21
+so the bill could not be enforced even if it was passed.
+
+0:21:23 --> 0:21:27
+And Eugene was absolutely humiliated.
+
+0:21:27 --> 0:21:30
+Lost his faith in the political process
+
+0:21:30 --> 0:21:32
+because he thought the whole state house was effectively
+
+0:21:32 --> 0:21:34
+bought up by the railroads.
+
+0:21:34 --> 0:21:38
+And this is where he decided to step back from politics
+
+0:21:38 --> 0:21:40
+to focus on labor organizing.
+
+
+[Speaker 6]
+0:21:46 --> 0:21:48
+Debs had been involved in his local union
+
+0:21:48 --> 0:21:50
+since his youth and had managed to climb the ranks
+
+0:21:50 --> 0:21:52
+pretty quickly.
+
+0:21:52 --> 0:21:54
+He had a knack for drunk people to his cause.
+
+
+[Speaker 5]
+0:21:54 --> 0:21:56
+He was congenial and generous.
+
+0:21:56 --> 0:21:57
+That's his personality.
+
+0:21:57 --> 0:22:01
+And was able to get along with workers of different types.
+
+0:22:01 --> 0:22:03
+He knew how to show up in the bars in the taverns
+
+0:22:03 --> 0:22:06
+where railroad workers would get together,
+
+0:22:06 --> 0:22:08
+city or places that other labor organizers might
+
+0:22:08 --> 0:22:10
+try to avoid.
+
+
+[Speaker 6]
+0:22:10 --> 0:22:13
+He also wrote articles for different publications.
+
+0:22:13 --> 0:22:15
+A lot of articles.
+
+
+[Speaker 5]
+0:22:15 --> 0:22:17
+I mean, there's literally thousands of articles
+
+0:22:17 --> 0:22:20
+that he wrote over the course of his life.
+
+
+[Speaker 6]
+0:22:20 --> 0:22:22
+It's important to keep in mind that Debs still believe
+
+0:22:22 --> 0:22:26
+that labor and capitalism could coexist,
+
+0:22:26 --> 0:22:28
+that it was just a matter of fixing the system,
+
+0:22:28 --> 0:22:30
+not overhauling it.
+
+
+[Speaker 5]
+0:22:30 --> 0:22:34
+These, at this point, not radical in any sense,
+
+0:22:34 --> 0:22:37
+really things that working within these existing systems
+
+0:22:37 --> 0:22:40
+might stand a chance at improving workers' lives.
+
+
+[Speaker 9]
+0:22:40 --> 0:22:44
+And he was very, very traditional.
+
+0:22:44 --> 0:22:46
+He was not a socialist.
+
+0:22:46 --> 0:22:49
+He was a small-de-democrat.
+
+0:22:49 --> 0:22:52
+Small-de-democrat.
+
+
+[Speaker 6]
+0:22:52 --> 0:22:54
+Small-de-democrat.
+
+0:22:54 --> 0:22:55
+Got it.
+
+
+[Speaker 9]
+0:22:55 --> 0:22:57
+Sorry, my fault.
+
+0:22:57 --> 0:22:59
+This is my Brooklyn accent.
+
+0:22:59 --> 0:23:00
+I love it.
+
+0:23:00 --> 0:23:01
+That's great.
+
+
+[Speaker 6]
+0:23:01 --> 0:23:02
+That's great.
+
+0:23:02 --> 0:23:03
+That was my...
+
+0:23:03 --> 0:23:05
+I should understand I'm...
+
+0:23:05 --> 0:23:06
+Yeah, for Jersey.
+
+0:23:06 --> 0:23:08
+That's totally me.
+
+0:23:08 --> 0:23:11
+I am sincerely sorry.
+
+
+[Speaker 7]
+0:23:11 --> 0:23:13
+This is Nick Salvatore.
+
+
+[Speaker 9]
+0:23:13 --> 0:23:18
+And I wrote a book entitled Eugene V. Debs,
+
+0:23:18 --> 0:23:21
+Citizen and Socialist.
+
+
+[Speaker 7]
+0:23:21 --> 0:23:24
+While Debs started out with pretty traditional democratic
+
+0:23:24 --> 0:23:27
+views, as he got more involved in labor organizing,
+
+0:23:27 --> 0:23:29
+he started to become disillusioned.
+
+0:23:29 --> 0:23:32
+There were half a dozen different organizations,
+
+0:23:32 --> 0:23:35
+which often competed rather than collaborated with one another.
+
+0:23:35 --> 0:23:38
+The largest, the American Federation of Labor,
+
+0:23:38 --> 0:23:42
+was run by famed union leaders Samuel Compers.
+
+0:23:42 --> 0:23:44
+And he was picky about who he led in.
+
+0:23:44 --> 0:23:47
+Workers were admitted based on specific skills,
+
+0:23:47 --> 0:23:51
+and women and people of color were mostly excluded.
+
+0:23:51 --> 0:23:53
+Debs thought this was a losing strategy,
+
+0:23:53 --> 0:23:58
+but there was more strength in unity and inclusivity.
+
+
+[Speaker 3]
+0:23:58 --> 0:24:01
+So that's when he moved toward getting involved
+
+0:24:01 --> 0:24:04
+in founding the American Railway Union,
+
+0:24:04 --> 0:24:07
+which was an attempt to organize workers
+
+0:24:07 --> 0:24:10
+across lots of different positions,
+
+0:24:10 --> 0:24:12
+working together and cooperating together.
+
+0:24:12 --> 0:24:14
+Suddenly you have a tool that it's much harder
+
+0:24:14 --> 0:24:17
+for the railroad owners to ignore.
+
+
+[Speaker 7]
+0:24:17 --> 0:24:20
+Debs also tried to get the rail workers union
+
+0:24:20 --> 0:24:21
+to include people of color.
+
+0:24:21 --> 0:24:25
+He brought it to a vote at one of their first conventions,
+
+0:24:25 --> 0:24:28
+and their proposal nearly passed, losing by just two votes.
+
+
+[Speaker 5]
+0:24:28 --> 0:24:32
+So effectively, one, two votes, I don't want to exaggerate here,
+
+0:24:32 --> 0:24:35
+but could have changed the course of history.
+
+0:24:35 --> 0:24:37
+Debs would later reflect that if the ARU
+
+0:24:37 --> 0:24:40
+had been willing to organize the Pullman porters,
+
+0:24:40 --> 0:24:42
+the wait staff on the train cars,
+
+0:24:42 --> 0:24:45
+maybe they could have shut down Pullman car operations
+
+0:24:45 --> 0:24:49
+without holding the railroads where the ARU ended up doing.
+
+0:24:49 --> 0:24:50
+Which, I mean, it's hindsight.
+
+0:24:50 --> 0:24:53
+It's hard to say if the black workers had gone on strike,
+
+0:24:53 --> 0:24:55
+they probably would have been met with more violence
+
+0:24:55 --> 0:24:58
+than the white ones were, to be honest with you.
+
+0:24:58 --> 0:25:01
+But it does underscore this idea that when we allow ourselves
+
+0:25:01 --> 0:25:03
+to be pitted against each other,
+
+0:25:03 --> 0:25:05
+we gut our own chances of success.
+
+
+[Speaker 6]
+0:25:06 --> 0:25:08
+And that brings us back to where we left Debs
+
+0:25:08 --> 0:25:10
+after the Pullman strike failed.
+
+0:25:10 --> 0:25:14
+In prison for six months, reflecting on the dark series
+
+0:25:14 --> 0:25:16
+of events that had landed him there.
+
+
+[Speaker 9]
+0:25:16 --> 0:25:19
+He wasn't in prison in the sense of he wasn't in chains
+
+0:25:19 --> 0:25:20
+or anything of that nature.
+
+
+[Speaker 7]
+0:25:20 --> 0:25:23
+So it's not jailing the way we want to imagine it today,
+
+0:25:23 --> 0:25:25
+like 23 hour lockdown.
+
+
+[Speaker 5]
+0:25:25 --> 0:25:30
+No, no, no, no, oh gosh, no, oh, it was the sheriff's house.
+
+0:25:30 --> 0:25:31
+Oh wow.
+
+0:25:31 --> 0:25:33
+It was so cushy.
+
+0:25:33 --> 0:25:34
+It was so, so cushy.
+
+0:25:34 --> 0:25:35
+Yeah.
+
+
+[Speaker 6]
+0:25:35 --> 0:25:36
+Debs could play football.
+
+0:25:36 --> 0:25:38
+He made friends in the community.
+
+0:25:38 --> 0:25:41
+He had study hour and he had plenty of visitors.
+
+
+[Speaker 9]
+0:25:41 --> 0:25:44
+He had Protestant ministers coming in.
+
+0:25:44 --> 0:25:47
+He had English socialists coming in.
+
+0:25:47 --> 0:25:49
+He had all sorts of folks coming in.
+
+0:25:49 --> 0:25:52
+People who he didn't know and they didn't know him.
+
+0:25:52 --> 0:25:56
+But they were drawn by this dramatic resistance.
+
+
+[Speaker 5]
+0:25:56 --> 0:25:59
+And they go to try to recruit him.
+
+0:25:59 --> 0:26:02
+This is, let's say, where Debs had the chance
+
+0:26:02 --> 0:26:04
+to reevaluate some of his worldview.
+
+
+[Speaker 7]
+0:26:04 --> 0:26:08
+Debs had always viewed the socialist with skepticism.
+
+
+[Speaker 5]
+0:26:08 --> 0:26:11
+Called class struggle, that core idea for socialist
+
+0:26:11 --> 0:26:14
+calls it an invention of diseased minds.
+
+
+[Speaker 7]
+0:26:14 --> 0:26:17
+But by the time he was getting ready to leap prison,
+
+
+[Speaker 5]
+0:26:17 --> 0:26:21
+he concluded, the Republicans are the big capitalists
+
+0:26:21 --> 0:26:23
+and the Democrats are the small capitalists.
+
+0:26:23 --> 0:26:26
+But at the end of the day, they are both the pro-capitalist parties.
+
+
+[Speaker 3]
+0:26:26 --> 0:26:32
+And the one was really needed was a party that represented the workers.
+
+
+[Speaker 7]
+0:26:32 --> 0:26:35
+And although he'd continue to resist socialism
+
+0:26:35 --> 0:26:38
+for a few more years, this is the moment
+
+0:26:38 --> 0:26:42
+when it starts to become a possibility in his mind.
+
+
+[Speaker 8]
+0:26:42 --> 0:26:47
+I was to be baptized in socialism in the roar of conflict.
+
+0:26:47 --> 0:26:51
+And I thank the gods for reserving to this fateful occasion
+
+0:26:51 --> 0:26:55
+the fiat, let there be light, the light that streams
+
+0:26:55 --> 0:26:58
+and steady radiance upon the Broadway
+
+0:26:58 --> 0:27:00
+to the socialist republic.
+
+
+[Speaker 6]
+0:27:03 --> 0:27:07
+When we come back, Debs launches a socialist movement
+
+0:27:07 --> 0:27:11
+and makes a bid for the presidency five times.
+
+
+[Speaker 4]
+0:27:12 --> 0:27:18
+OK, for its time to turn, you'll find
+
+0:27:18 --> 0:27:22
+an aircraft spot in New York, isn't possible.
+
+0:27:22 --> 0:27:24
+This is Julia calling from Astoria, New York,
+
+0:27:24 --> 0:27:26
+and you're missing the headline.
+
+
+[Speaker 2]
+0:27:29 --> 0:27:31
+This message comes from Charles Schwab.
+
+0:27:31 --> 0:27:33
+When it comes to managing your wealth,
+
+0:27:33 --> 0:27:37
+Schwab gives you more choices, like full service wealth management
+
+0:27:37 --> 0:27:38
+and advice when you need it.
+
+0:27:38 --> 0:27:41
+You can also invest on your own and trade on ThinkorSwim.
+
+0:27:41 --> 0:27:44
+Visit Schwab.com to learn more.
+
+
+[Speaker 1]
+0:27:44 --> 0:27:46
+This message comes from Viking, committed
+
+0:27:46 --> 0:27:48
+to exploring the world and comfort,
+
+0:27:48 --> 0:27:50
+journey through the heart of Europe
+
+0:27:50 --> 0:27:53
+on an elegant Viking longship with thoughtful service,
+
+0:27:53 --> 0:27:56
+destination-focused dining, and cultural enrichment
+
+0:27:56 --> 0:27:58
+on board and on shore.
+
+0:27:58 --> 0:28:01
+And every Viking voyage is all-inclusive
+
+0:28:01 --> 0:28:03
+with no children and no casinos.
+
+0:28:03 --> 0:28:06
+Discover more at Viking.com.
+
+
+[Speaker 6]
+0:28:09 --> 0:28:10
+Part two.
+
+0:28:10 --> 0:28:12
+The Band plays on.
+
+
+[Speaker 7]
+0:28:15 --> 0:28:17
+After serving six months in Woodstock,
+
+0:28:17 --> 0:28:20
+prison in Chicago, Eugene Debs was released.
+
+0:28:29 --> 0:28:30
+And he was welcome back to freedom
+
+0:28:30 --> 0:28:33
+by a crowd of 100,000 people.
+
+0:28:33 --> 0:28:36
+And an event put together by organized labor.
+
+
+[Speaker 5]
+0:28:36 --> 0:28:39
+Yeah, I can't even conceptualize 100,000 people
+
+0:28:39 --> 0:28:40
+in one place.
+
+
+[Speaker 8]
+0:28:43 --> 0:28:46
+The theme tonight is personal liberty
+
+0:28:46 --> 0:28:50
+or giving to its full-hyde and dep, American liberty.
+
+0:28:51 --> 0:28:53
+Something that Americans have been accustomed to
+
+0:28:53 --> 0:28:57
+eulogize since the foundation of the Republic.
+
+
+[Speaker 5]
+0:28:57 --> 0:29:00
+And devs gave a really good speech called liberty.
+
+
+[Speaker 8]
+0:29:00 --> 0:29:04
+From such reflections I turn to the practical lessons
+
+0:29:04 --> 0:29:07
+taught by this liberation day demonstration,
+
+0:29:07 --> 0:29:09
+it means that American lovers of liberty
+
+0:29:09 --> 0:29:12
+are setting in operation forces to rescue
+
+0:29:12 --> 0:29:16
+their constitutional liberties from the grasp of monopoly
+
+0:29:16 --> 0:29:18
+and its mercenary hirelings.
+
+
+[Speaker 7]
+0:29:22 --> 0:29:25
+There was a sea of people before him
+
+0:29:25 --> 0:29:26
+wearing white ribbons representing
+
+0:29:26 --> 0:29:29
+the striking workers of America.
+
+0:29:29 --> 0:29:32
+And Eugene Debs understood the power of that moment.
+
+
+[Speaker 8]
+0:29:32 --> 0:29:37
+The fires of liberty and noble aspirations
+
+0:29:40 --> 0:29:42
+are not yet extinguished.
+
+0:29:44 --> 0:29:47
+I greet you tonight as lovers of liberty
+
+0:29:47 --> 0:29:49
+and as despisers of despotism.
+
+
+[Speaker 3]
+0:29:50 --> 0:29:53
+And he had apparently an ability to engage people
+
+0:29:53 --> 0:29:55
+that was very personal,
+
+0:29:55 --> 0:29:58
+even though he was speaking sometimes to thousands.
+
+
+[Speaker 8]
+0:29:58 --> 0:29:59
+Speaking for myself personally,
+
+
+[Speaker 5]
+0:30:00 --> 0:30:04
+I am not certain whether this is an occasion for rejoicing or lamentation.
+
+
+[Speaker 2]
+0:30:04 --> 0:30:09
+Sort of irreverent, he could be very funny and barbed.
+
+
+[Speaker 5]
+0:30:09 --> 0:30:15
+I confess to a serious doubt as to whether this day marks my deliverance from bondage to
+
+0:30:15 --> 0:30:20
+freedom or my doom from freedom to bondage.
+
+
+[Speaker 4]
+0:30:20 --> 0:30:29
+What is more American to devs than standing up against oppression and standing up against
+
+0:30:29 --> 0:30:34
+injustice? This is the American tradition. That's what we're doing.
+
+
+[Speaker 5]
+0:30:34 --> 0:30:40
+The people are aroused in view of impending perils and that agitation, organization, and
+
+0:30:40 --> 0:30:45
+unification are to be the future battle cries of men who will not part with their birth
+
+0:30:45 --> 0:30:51
+rights. And like Patrick Henry, we'll have the courage to exclaim, give me liberty or give
+
+0:30:51 --> 0:30:52
+me death.
+
+
+[Speaker 3]
+0:31:00 --> 0:31:07
+He's a star. Eugene Debs' role in the Pullman Strike and the Liberty Speech in Chicago
+
+0:31:07 --> 0:31:14
+made many see him as the champion of the working person in America. He was a fiery populist who
+
+0:31:14 --> 0:31:20
+was unafraid to challenge big business and this fame gave him a path into national politics.
+
+0:31:20 --> 0:31:27
+A path he initially didn't want to take. He is courted by some different political groups
+
+
+[Speaker 4]
+0:31:27 --> 0:31:32
+including the populists who wanted Debs to run for president in 96.
+
+
+[Speaker 3]
+0:31:33 --> 0:31:39
+Quick side note, the populist party, officially the People's Party, was established in 1892
+
+0:31:39 --> 0:31:44
+to represent the economic interest of farmers and urban workers. They began running candidates
+
+0:31:44 --> 0:31:50
+for president that same year. Eugene Debs was a supporter of the party. But as he started flirting
+
+0:31:50 --> 0:31:56
+with socialism, his feelings towards the populists started to change. He felt that their proposals
+
+0:31:56 --> 0:32:03
+didn't go far enough for workers. So when they wanted to nominate him in 1896, he rejected
+
+
+[Speaker 4]
+0:32:03 --> 0:32:07
+the populist party's nomination. They end up endorsing William Jennings Bryan.
+
+
+[Speaker 6]
+0:32:09 --> 0:32:15
+Eugene Debs campaigned for Bryan. But when he lost the election, this is the last straw.
+
+
+[Speaker 4]
+0:32:15 --> 0:32:30
+By 1897, just a couple months after Bryan's defeat in the election, Debs said the issue is
+
+0:32:30 --> 0:32:38
+socialism versus capitalism. I am for socialism because I am for humanity. We have been cursed with
+
+0:32:38 --> 0:32:44
+the reign of gold long enough. Money no longer constitutes a proper basis for civilization. We are
+
+0:32:44 --> 0:32:52
+on the eve of universal change. This is Debs first endorsement of socialism.
+
+
+[Speaker 2]
+0:32:53 --> 0:33:00
+So he basically argued America has this long revolutionary tradition, this long radical tradition
+
+0:33:00 --> 0:33:06
+which has been the force of progress that has expanded democracy. And socialism is simply the next step.
+
+0:33:06 --> 0:33:20
+The emerging industrial corporate system is robbing people of their democratic birthright. And
+
+0:33:20 --> 0:33:26
+this is the next big obstacle. And socialism is going to speak to that. Not as a radical idea from
+
+0:33:26 --> 0:33:32
+Europe, but rather this is the homegrown natural next step for the evolution of American democracy.
+
+
+[Speaker 6]
+0:33:32 --> 0:33:37
+Debs begins going around the country holding rallies in front of large crowds.
+
+
+[Speaker 2]
+0:33:37 --> 0:33:41
+This gave him a great opportunity to spread the gospel of socialism.
+
+
+[Speaker 6]
+0:33:41 --> 0:33:45
+There were a bunch of different factions of socialist in America.
+
+
+[Speaker 2]
+0:33:45 --> 0:33:50
+The socialist party was a coalition of very different kinds of people who had come to socialism
+
+
+[Speaker 4]
+0:33:50 --> 0:33:54
+in very different ways. All these different factions and descendants in between.
+
+
+[Speaker 2]
+0:33:54 --> 0:34:00
+The Greenwich Village, Bohemian radicals, the painters and artists in San Francisco,
+
+0:34:00 --> 0:34:07
+people like Jack London, up to Sinclair. But it was also the farmers of Oklahoma who had been
+
+0:34:07 --> 0:34:12
+part of the populist movement and felt like the real problem in America was that capital was
+
+0:34:12 --> 0:34:18
+getting in the way of their business. And also German immigrants who had come from socialist
+
+0:34:18 --> 0:34:24
+tradition in Europe. Jewish garment workers in the east side of New York also had a socialist
+
+
+[Speaker 4]
+0:34:24 --> 0:34:30
+radical tradition. And Debs was the unifying figure around which different wings and sections of
+
+
+[Speaker 2]
+0:34:30 --> 0:34:34
+the party could actually rally. Debs had the ability to speak to all of them. They themselves
+
+0:34:34 --> 0:34:39
+could not necessarily speak the same language to each other, but somehow Debs managed to engage
+
+0:34:39 --> 0:34:45
+and speak to all of them. What made him especially potent was the fact that he transcribed that
+
+0:34:45 --> 0:34:47
+socialist tradition into an American grain.
+
+
+[Speaker 6]
+0:34:48 --> 0:35:03
+In 1900, Debs ran as a socialist for president. And in 1901, he founded a political party,
+
+0:35:03 --> 0:35:09
+the socialist party of America, uniting all the socialist groups under one banner.
+
+
+[Speaker 4]
+0:35:10 --> 0:35:19
+He joked around a lot about how like if we ever stood a chance of electing a president,
+
+0:35:19 --> 0:35:25
+don't run me, I would make a bad president. More critical for Debs was raising class consciousness.
+
+0:35:26 --> 0:35:32
+He once workers to see themselves as workers, not middle class, not as temporarily embarrassed
+
+0:35:33 --> 0:35:40
+as workers with more in common than we have different. He considered himself a preacher,
+
+
+[Speaker 6]
+0:35:40 --> 0:35:46
+not an administrator, but the socialist party was part of a larger movement. And Debs knew that
+
+0:35:47 --> 0:35:53
+he was driven by the ideas and policy proposals they were putting forward. Things like more support
+
+
+[Speaker 1]
+0:35:53 --> 0:35:58
+for early childhood education. The 40-hour work week. Old age pensions. Well-fair programs for
+
+
+[Speaker 2]
+0:35:58 --> 0:36:06
+the poor or worker safety protections. These are things that were radical third party innovations
+
+
+[Speaker 6]
+0:36:06 --> 0:36:11
+when they were first proposed by the socialists. He understood that he could use his celebrity to be
+
+0:36:11 --> 0:36:17
+a presidential nominee that would raise a profile of all of these ideas. That's ultimately what
+
+
+[Speaker 4]
+0:36:17 --> 0:36:22
+propels him into the nomination is the sense of responsibility to this movement and to the party
+
+0:36:22 --> 0:36:27
+recognizing that he would probably be the most effective figure to do that task.
+
+
+[Speaker 3]
+0:36:33 --> 0:36:40
+So in 1904, he began running for president as the candidate of the socialist party of America.
+
+0:36:41 --> 0:36:45
+He also worked as a columnist where his voice was amplified even more.
+
+
+[Speaker 4]
+0:36:45 --> 0:36:50
+And you can't talk about Debs in the 19 Outs without the appeal to reason,
+
+0:36:50 --> 0:36:55
+which at its peak was the most popular political newspaper in the nation with half a million
+
+0:36:55 --> 0:37:00
+subscriptions. It was a socialist weekly, explicitly socialist, published out of little Gerard
+
+0:37:00 --> 0:37:08
+Kansas, the hotbed of radical coal mining country. It certainly, socialist were emerging. They were
+
+
+[Speaker 2]
+0:37:08 --> 0:37:14
+an important force, an important voice, but they were still a minority and still demonized right
+
+
+[Speaker 4]
+0:37:14 --> 0:37:20
+from the start. They're just considered too radical. They're not part of the American discourse if
+
+
+[Speaker 2]
+0:37:20 --> 0:37:25
+that makes sense. Socialism was quite dangerous and Debs would have considered himself to be a
+
+0:37:25 --> 0:37:32
+dangerous man because he was looking to radically change the system and that involved public ownership
+
+0:37:32 --> 0:37:37
+of the means of production. That it wasn't simply a matter of regulating business, but that a lot
+
+0:37:37 --> 0:37:42
+of business was drawing on what they considered to be public resources, the land and the forests and
+
+0:37:42 --> 0:37:47
+the minerals and that these things ought to be collectively owned and more democratically controlled.
+
+0:37:48 --> 0:37:54
+Debs and others who were pushing this idea were actually far more radical than anything that now
+
+0:37:54 --> 0:37:58
+passes for socialism at least under our current conversation.
+
+
+[Speaker 4]
+0:38:05 --> 0:38:12
+You know, there's hostility, but I think Debs is also really adept at taking socialist concepts
+
+0:38:12 --> 0:38:17
+and putting them in terms that people in middle America could understand and relate to.
+
+0:38:18 --> 0:38:24
+He's this corn fed huzure, right? So he's able to kind of make these ideas a little bit more
+
+0:38:24 --> 0:38:29
+palatable to not just like people in cities, but people in rural America too.
+
+
+[Speaker 3]
+0:38:30 --> 0:38:37
+His ideas began to take hold. The socialist won more votes in 1908 when Debs ran again,
+
+0:38:37 --> 0:38:42
+and they even had success at the local level. They won mayoral races and city council seats across
+
+0:38:42 --> 0:38:48
+the country. Their ideas were slowly being adopted by mainstream politicians.
+
+0:38:54 --> 0:38:59
+Another reason for the increasing success of the socialist could have been the fact that
+
+0:38:59 --> 0:39:01
+they just knew how to throw a party.
+
+
+[Speaker 4]
+0:39:02 --> 0:39:10
+So the red special was the or the socialist presidential special was the campaign train from 1908.
+
+0:39:11 --> 0:39:16
+Dick travels coast to coast as an opportunity for Debs to spread the word gay notoriety.
+
+
+[Speaker 3]
+0:39:17 --> 0:39:22
+The train traveled with a 15 piece band that gave performances at all their stops.
+
+0:39:23 --> 0:39:28
+Every event became like a fair, a big show, and it drew in big crowds.
+
+
+[Speaker 4]
+0:39:29 --> 0:39:36
+Debs put on a show in the sense that he really spoke emphatically with his hands.
+
+0:39:36 --> 0:39:39
+With these facial expressions, he had this kind of piercing gaze.
+
+0:39:39 --> 0:39:44
+He's got this fiery oration. He's able to really rally up a crowd.
+
+
+[Speaker 6]
+0:39:45 --> 0:39:52
+But all of the traveling and barnstorming and talking to people start to impact Eugene Debs' health.
+
+
+[Speaker 2]
+0:39:52 --> 0:40:00
+It did wear on his health. He would periodically collapse doing this.
+
+
+[Speaker 3]
+0:40:00 --> 0:40:06
+He had a tendency to get on the train and by the time he got off the train he had given away his coat or any amount of money
+
+0:40:06 --> 0:40:14
+He had in his pocket from one station to the next he'd often run into a an old railroad worker who had you know suffered during the Pullman strike
+
+0:40:14 --> 0:40:18
+And and he would listen to their story and unload his wallet on them
+
+
+[Speaker 5]
+0:40:19 --> 0:40:21
+But despite all the difficulties in
+
+0:40:21 --> 0:40:27
+1912 Eugene Debs and the socialist party ran their biggest breakthrough campaign for presidency
+
+0:40:27 --> 0:40:32
+They gained enough support to catch the attention of candidates like Teddy Roosevelt
+
+0:40:33 --> 0:40:38
+Roosevelt declared that Debs was one of the most undesirable citizens in America
+
+
+[Speaker 7]
+0:40:38 --> 0:40:44
+There's this famous political cartoon of Gene Debs in this like swimming pool or this pond and
+
+0:40:44 --> 0:40:51
+Teddy Roosevelt is running away with this close because the basically the the progressives and these other parties are
+
+0:40:52 --> 0:40:55
+Stealing little aspects bits and pieces of the socialist party platform
+
+
+[Speaker 3]
+0:40:55 --> 0:40:59
+In fact, Teddy Roosevelt for example varies explicitly said
+
+0:40:59 --> 0:41:07
+We need to adopt some of those ideas and get rid of the bad ideas because otherwise socialism is going to seem you know too powerful to resist
+
+
+[Speaker 8]
+0:41:07 --> 0:41:13
+We need to head this off the democratic candidate would your Wilson won the 1912 election
+
+0:41:13 --> 0:41:19
+But Eugene Debs won six percent of the popular vote a staggering number at that time and
+
+0:41:19 --> 0:41:25
+Even though he saw himself as a revolutionary not an incrementalist his campaign
+
+
+[Speaker 3]
+0:41:25 --> 0:41:30
+Had a real impact third parties in America do this they move the conversation in
+
+0:41:31 --> 0:41:34
+Different directions and while they may not succeed
+
+0:41:35 --> 0:41:36
+electorally
+
+0:41:36 --> 0:41:41
+They move the conversation and they get more of their agenda under consideration
+
+
+[Speaker 5]
+0:41:42 --> 0:41:46
+In that moment in 1912 looking out into the future
+
+0:41:47 --> 0:41:54
+Eugene Debs must have felt some hope it may have even looked like the socialist workers revolution was gonna happen eventually
+
+0:41:55 --> 0:42:02
+But the reality is dark times were coming for the United States and the world and he would be forced to make difficult choices
+
+0:42:02 --> 0:42:07
+That would forever change the future for him and his political party
+
+
+[Speaker 1]
+0:42:25 --> 0:42:34
+Hi, this is Prashant Sharma from Baltimore, Maryland and you are listening to through line from NPR
+
+
+[Speaker 2]
+0:42:37 --> 0:42:42
+This message comes from NPR sponsor R.E.I. Co up you can't make more time
+
+0:42:42 --> 0:42:50
+But when you opt outside you can make the most of it so make time for those early mornings last minute trips and timeless views
+
+0:42:50 --> 0:42:54
+For small victories big fails and everything in between and when you're ready
+
+0:42:54 --> 0:43:00
+R.E.I. has the gear clothing classes and advice to help you make the most of your time out there
+
+0:43:00 --> 0:43:05
+Visit your local R.E.I. Co up or R.E.I. dot com slash opt outside
+
+0:43:06 --> 0:43:09
+This message comes from Grammarly at an enterprise level
+
+0:43:10 --> 0:43:12
+Nothing is more important than communication
+
+0:43:12 --> 0:43:19
+Grammarly for enterprise enables your team to work smarter and faster other AI tools can't quantify business impact
+
+0:43:19 --> 0:43:25
+But Grammarly gives you actionable insights and measurable results with features like their effective communication score
+
+0:43:25 --> 0:43:32
+Which tracks key metrics so you can make data-driven decisions to improve outcomes learn more at Grammarly dot com slash enterprise
+
+
+[Speaker 5]
+0:43:36 --> 0:43:39
+Part three a free soul
+
+
+[Speaker 8]
+0:43:40 --> 0:43:48
+By 1914 Eugene Debs was taking some time to recover mentally and physically from four consecutive presidential runs
+
+0:43:49 --> 0:43:53
+His reputation among socialists at this point was mixed
+
+0:43:54 --> 0:43:59
+Many loved him but some were growing frustrated with him. They thought that Debs was simply
+
+0:44:00 --> 0:44:04
+Making a mess of it running again and again refusing to compromise
+
+0:44:05 --> 0:44:09
+rejecting any sort of incremental approach to reform. He could be
+
+
+[Speaker 6]
+0:44:10 --> 0:44:12
+petulant in
+
+0:44:12 --> 0:44:19
+His debates and disagreements within the socialist party like you can almost see him shaking his shoulders
+
+
+[Speaker 8]
+0:44:19 --> 0:44:26
+And do you know who I am so he was he had a little bit of like an ego. Oh very much so. Yeah, all very much so
+
+
+[Speaker 5]
+0:44:37 --> 0:44:39
+Meanwhile World War One was beginning
+
+0:44:49 --> 0:45:07
+And as troops headed to the front lines the vibe in the US was very different
+
+
+[Speaker 3]
+0:45:09 --> 0:45:12
+Most Americans are saying this is something we want nothing to do with
+
+0:45:13 --> 0:45:22
+You know, this is an era when one-third of Americans are either immigrants or the children of immigrants and different groups had different loyalties
+
+0:45:22 --> 0:45:27
+The Irish in America were not interested in going to war to defend the English
+
+0:45:28 --> 0:45:33
+Many Jews in America were not interested in an alliance that included Russia
+
+0:45:33 --> 0:45:39
+They had escaped persecution from Russia and one of the largest immigrant groups in America was the German Americans
+
+0:45:39 --> 0:45:44
+And of course they were conflicted about going to war against their ancestral homeland as well
+
+
+[Speaker 5]
+0:45:45 --> 0:45:48
+And people like Debs who were born and raised in the American Heartland
+
+
+[Speaker 3]
+0:45:49 --> 0:45:56
+Also had their reservations. There's a sort of long isolationist tradition going all the way back to the very beginning
+
+0:45:56 --> 0:46:01
+George Washington's argument was we should have no foreign entangling alliances
+
+0:46:01 --> 0:46:05
+Right and that the Atlantic Ocean was there to keep us out of
+
+0:46:06 --> 0:46:08
+European disagreements
+
+0:46:09 --> 0:46:13
+So the idea of getting involved in what people quickly began to realize was this terrible total war
+
+0:46:14 --> 0:46:16
+People wanted nothing to do with it
+
+
+[Speaker 4]
+0:46:18 --> 0:46:25
+Every man who really loves America will act and speak in the true spirit of neutrality
+
+
+[Speaker 3]
+0:46:25 --> 0:46:29
+Woodrow Wilson himself calls on Americans to be neutral
+
+
+[Speaker 4]
+0:46:30 --> 0:46:35
+The United States must be neutral in fact as well as in name
+
+0:46:35 --> 0:46:39
+During these days that are to try men's souls, you know
+
+
+[Speaker 3]
+0:46:39 --> 0:46:44
+He even tells them when you go to the movies and you see a news reel about the war don't cheer for either side
+
+0:46:44 --> 0:46:46
+You know, let's let's stay out of this
+
+
+[Speaker 4]
+0:46:47 --> 0:46:53
+The United States must be new must be neutral
+
+0:46:53 --> 0:47:05
+There are it may be many months of fiery trial and sacrifice ahead of us
+
+0:47:06 --> 0:47:10
+It is a fearful thing to lead this great peaceful people into war
+
+0:47:11 --> 0:47:14
+Into the most terrible and disastrous of all wars
+
+0:47:15 --> 0:47:18
+Civilization itself seeming to be in the balance
+
+0:47:18 --> 0:47:20
+In
+
+
+[Speaker 8]
+0:47:22 --> 0:47:26
+1917 after several German attacks on American ships
+
+0:47:27 --> 0:47:30
+The US decided it had to get involved in the war
+
+
+[Speaker 3]
+0:47:31 --> 0:47:35
+And we have to be sympathetic to the situation that the Wilson administration is in at this point
+
+0:47:36 --> 0:47:39
+Everybody recognized that the war in Europe is at a tipping point
+
+0:47:41 --> 0:47:47
+The United States has to rally an enormous war effort very very quickly
+
+0:47:48 --> 0:47:50
+Which it really had never had to do before
+
+
+[Speaker 8]
+0:47:51 --> 0:47:54
+Nearly three million men were drafted
+
+
+[Speaker 3]
+0:47:54 --> 0:48:00
+Then people have to make a decision about whether they're going to support the war effort or continue to be to centers
+
+
+[Speaker 8]
+0:48:03 --> 0:48:06
+The loudest remaining the centers were the socialists
+
+
+[Speaker 3]
+0:48:08 --> 0:48:10
+The socialist draft of declaration which basically says
+
+0:48:11 --> 0:48:16
+This is a rich man's war and a poor man's fight and the socialist party will be united
+
+0:48:16 --> 0:48:19
+In fighting against the war resisting the war
+
+0:48:19 --> 0:48:22
+Byd legal means and also resisting the draft
+
+
+[Speaker 7]
+0:48:23 --> 0:48:25
+Some socialists like up to the Sinclair
+
+0:48:25 --> 0:48:27
+Buck the party position the endorsed the war they're the war socialist
+
+
+[Speaker 3]
+0:48:28 --> 0:48:32
+They say this is a big mistake we are going to be branded as unpatriotic
+
+0:48:33 --> 0:48:35
+If we do this
+
+0:48:35 --> 0:48:38
+And we should trust that you know Wilson had this idea that which was actually
+
+0:48:39 --> 0:48:42
+Something that appealed to the socialists this idea that after the war
+
+0:48:43 --> 0:48:49
+There would be this congress of nations the league of nations idea that diplomacy would be more open
+
+0:48:49 --> 0:48:51
+And there would be collective security
+
+
+[Speaker 8]
+0:48:53 --> 0:48:57
+Still most socialists remained opposed to the war
+
+0:48:57 --> 0:49:05
+The radical socialist press was filled with anti-war articles and a fleet of speakers traveled the country making anti-war speeches
+
+0:49:06 --> 0:49:09
+Including their secret weapon Eugene Debs
+
+
+[Unknown Speaker]
+0:49:10 --> 0:49:12
+And
+
+
+[Speaker 6]
+0:49:12 --> 0:49:14
+That begins a
+
+0:49:15 --> 0:49:18
+Kind of a revival for Gene Debs. He's not well
+
+0:49:19 --> 0:49:23
+But he simply says I can't let this go by
+
+
+[Speaker 5]
+0:49:26 --> 0:49:32
+On April 6th 1917 the US entered the Great War and keep in mind up to this point
+
+0:49:33 --> 0:49:35
+Many Americans still favored neutrality
+
+0:49:36 --> 0:49:38
+They wanted no part in this foreign conflict
+
+0:49:38 --> 0:49:44
+The Wilson administration knew that in order for the war effort to succeed they had to change the narrative
+
+0:49:52 --> 0:49:58
+So they launched a massive campaign unlike anything the country had seen before
+
+
+[Speaker 2]
+0:50:00 --> 0:50:07
+Hiring the best artists, filmmakers and historians and scholars and movie stars.
+
+0:50:07 --> 0:50:24
+To go out and pitch the idea that the Germans are demonic villains and that the allies are not just another set of imperial powers out for their own game, but are actually our noble friends.
+
+0:50:24 --> 0:50:27
+And we need to support them.
+
+
+[Speaker 3]
+0:50:28 --> 0:50:33
+The campaign was a success. The country became consumed by the war.
+
+
+[Speaker 2]
+0:50:40 --> 0:50:52
+Stirred up in enormous war frenzy with a lot of vigilante violence against people like socialist anti-war speakers and religious pacifists and so forth.
+
+0:50:53 --> 0:50:56
+And a lot of it was stimulated by this propaganda campaign.
+
+
+[Speaker 4]
+0:51:08 --> 0:51:19
+The other side of that, Congress passes the Espionage Act of 1917, which made a federal crime punishable by up to 20 years in prison to criticize the war or the government.
+
+0:51:19 --> 0:51:22
+Things socialist were already doing by this point.
+
+
+[Speaker 5]
+0:51:22 --> 0:51:30
+Thousands of socialists were tracked and arrested. Their newspapers were ransacked and shut down.
+
+
+[Speaker 6]
+0:51:33 --> 0:51:41
+I realize that in speaking to you this afternoon there are certain limitations placed upon the right of free speech.
+
+0:51:41 --> 0:51:49
+I must be exceedingly careful, prudent as to what I say and even more careful and prudent as to how I say it.
+
+0:51:49 --> 0:51:55
+I may not be able to say all I think, but I am not going to say anything that I do not think.
+
+0:51:55 --> 0:52:03
+I would rather a thousand times be a free soul in jail than to be a sick of it, coward in the streets.
+
+
+[Speaker 4]
+0:52:04 --> 0:52:09
+If you know the first thing about Jean-Devs, he is not about to cave on his principles.
+
+
+[Speaker 2]
+0:52:10 --> 0:52:17
+He knew at that time that federal agents were following him when he gave speeches. They were federal agents in the audience.
+
+
+[Speaker 4]
+0:52:17 --> 0:52:24
+And went on to give his most famous speech. When 101 years ago last June in Canton, Ohio, 1918.
+
+
+[Speaker 6]
+0:52:25 --> 0:52:37
+The working class who fight all the battles, the working class who make the supreme sacrifices, the working class who freely shed their blood and furnished the corpses, have never yet had a voice.
+
+0:52:37 --> 0:52:44
+In either declaring war or making peace. It is the ruling class that invariably does both.
+
+
+[Speaker 7]
+0:52:45 --> 0:52:54
+Devs argues that the war itself is a war of competing capitalist organizations.
+
+
+[Speaker 6]
+0:52:54 --> 0:53:03
+Everywhere they are moving toward democracy and the dawn, marching toward the sunrise. Their faces all a glow with the light of the coming day.
+
+0:53:03 --> 0:53:10
+These are the socialists, the most zealous and enthusiastic crusaders the world has ever known.
+
+
+[Speaker 4]
+0:53:11 --> 0:53:15
+So the general theme of this very long speech is democracy.
+
+
+[Speaker 7]
+0:53:16 --> 0:53:25
+He never migrates away from American values.
+
+0:53:25 --> 0:53:37
+He criticizes the fancy capitalists, all of that sort of stuff. But he is not embarrassed about talking about American traditions, about American democracy.
+
+0:53:38 --> 0:53:46
+He sees it as a valued asset that is under serious attack.
+
+
+[Speaker 2]
+0:53:47 --> 0:54:01
+It is interesting that what Deb said during the speech was not reprinted because many newspapers were worried that if they reprinted, they themselves might be punished by the government for allowing these sentiments into their pages.
+
+0:54:02 --> 0:54:05
+So nobody actually knew just what Deb's had said at that point.
+
+
+[Speaker 5]
+0:54:07 --> 0:54:10
+Two weeks later, Devs was arrested.
+
+
+[Speaker 4]
+0:54:11 --> 0:54:19
+We have to talk about Devs and his sentencing hearing at Cleveland because it is some of the most profound stuff he ever said.
+
+0:54:20 --> 0:54:26
+He has already been convicted of violating this edition law. He knows he is going to go to prison. He just doesn't know how long for.
+
+
+[Speaker 7]
+0:54:27 --> 0:54:39
+The trial is one of the oddest things in the world in the sense that I think half the court room, court officials, I should say, actually like Trump,
+
+0:54:40 --> 0:54:47
+they didn't agree with him at all, but they liked him. But it didn't stop the process.
+
+
+[Speaker 2]
+0:54:48 --> 0:54:51
+Devs himself refuses to apologize.
+
+
+[Speaker 4]
+0:54:52 --> 0:54:54
+And he got the chance to address the judge in the jury.
+
+
+[Speaker 7]
+0:54:55 --> 0:55:04
+His whole final speech to the judge is just a wonderful framing of his life's work.
+
+
+[Speaker 4]
+0:55:05 --> 0:55:14
+He said, Your Honor, years ago, I recognized my kinship with all living beings and made it my mind that I was not one bit better than the meanest on earth.
+
+0:55:15 --> 0:55:19
+I said then and I say now that while there is a lower class, I am in it.
+
+0:55:20 --> 0:55:26
+While there is a criminal element, I am of it. And while there is a soul in prison, I am not free.
+
+
+[Speaker 2]
+0:55:27 --> 0:55:34
+You know, this is one of those great moments in America where the person on trial manages to put the law itself on trial.
+
+0:55:35 --> 0:55:43
+And he basically argues, you know, I have every right to speak on the most important issue of the day and that's what I was doing.
+
+
+[Speaker 7]
+0:55:44 --> 0:55:54
+His last comment to the judge, he says, Let the people everywhere take heart and hope for the cross's bending, the midnight is passing.
+
+
+[Speaker 4]
+0:55:54 --> 0:55:58
+Don is on its way. Relief and rest are close at hand.
+
+
+[Speaker 7]
+0:55:59 --> 0:56:08
+And then he thanked the judge and the court for their kindness and said, Your Honor, I'm prepared for your sentence.
+
+0:56:12 --> 0:56:21
+He realized that the people he was arguing against and indeed fighting against, were also Americans.
+
+0:56:21 --> 0:56:28
+He recognized that he didn't like them, he didn't agree with them. He would fight them to his last breath.
+
+0:56:29 --> 0:56:31
+But he didn't dehumanize them.
+
+
+[Speaker 5]
+0:56:32 --> 0:56:35
+Debs was sentenced to 10 years in a federal prison.
+
+
+[Speaker 2]
+0:56:35 --> 0:56:50
+The trial was widely covered and it was considered to be one of the important test cases of the Espionage Act.
+
+0:56:51 --> 0:56:55
+Some are saying, Look, we should acknowledge that we really overreached in this case.
+
+0:56:56 --> 0:56:59
+The Espionage Act was wrong and now is the time to say so.
+
+0:56:59 --> 0:57:13
+This goes to the Supreme Court and Oliver Wendell Holmes Jr., who we recognize and remember as a great advocate for free speech, was actually the person who wrote for the unanimous opinion sending Debs to prison.
+
+0:57:14 --> 0:57:21
+Basically they're arguing that Congress has the right to put public safety over free speech in times of national crisis.
+
+0:57:21 --> 0:57:33
+This is where this idea of clear and present danger enters into our vocabulary that essentially free speech means one thing in times of peace and another thing in times of war and that's just too bad.
+
+
+[Speaker 3]
+0:57:36 --> 0:57:40
+Meanwhile, the perception of socialism in the US was changing.
+
+0:57:41 --> 0:57:49
+After the 1917 Bolshevik Revolution in Russia, a class-based uprising that ushered in a global wave of socialist thinking,
+
+0:57:49 --> 0:57:53
+socialism was reframed as something foreign and dangerous.
+
+
+[Speaker 4]
+0:57:54 --> 0:57:56
+So this is our first major red scare.
+
+
+[Speaker 2]
+0:57:57 --> 0:57:59
+The red scare, the demonization of socialism that occurs.
+
+
+[Speaker 4]
+0:58:00 --> 0:58:09
+And if you think about the cultural and political impact that McCarthyism had in the 50s, this is that, but in the 19 teens and in the earliest 20s too.
+
+
+[Speaker 2]
+0:58:10 --> 0:58:18
+Both of those things have very effectively convinced many Americans that socialism is an alien force rather than something that has this long-rich indigenous history.
+
+
+[Speaker 4]
+0:58:19 --> 0:58:27
+This is the end of the socialist party as Debs knew it at its peak and it would just never recover it.
+
+
+[Speaker 5]
+0:58:36 --> 0:58:41
+By 1920, Debs watched from prison as free speech became the issue of the day.
+
+0:58:42 --> 0:58:44
+An amnesty movement was beginning to take shape.
+
+0:58:44 --> 0:58:52
+The roots of the ACLU were forming and for many, Eugene Debs was the symbol of democracy under threat.
+
+0:58:53 --> 0:59:01
+That's why even as he sat in a prison cell in poor health, the socialist party chose Debs to run for president again.
+
+
+[Speaker 2]
+0:59:02 --> 0:59:13
+They're convinced that if they can run Debs for president from prison, that what they will do is essentially make his imprisonment a national issue that will essentially put it on the ballot.
+
+0:59:14 --> 0:59:19
+This is a referendum on the First Amendment and they were inviting Americans to cast a protest vote.
+
+0:59:20 --> 0:59:22
+They play it up as much as possible.
+
+
+[Speaker 4]
+0:59:23 --> 0:59:28
+The campaign button for the socialist party in 1920 didn't have his name on it. It just said for president.
+
+
+[Speaker 2]
+0:59:29 --> 0:59:30
+Vote for convict 9653.
+
+
+[Speaker 4]
+0:59:31 --> 0:59:38
+With a picture of Debs in his prison uniform in front of the Atlanta federal penitentiary, those are in our gift shop if anybody wants one, but in any case.
+
+
+[Speaker 2]
+0:59:39 --> 0:59:45
+The warden allows Debs to come out of prison and stand on the front steps of the prison to receive the nomination.
+
+0:59:46 --> 0:59:51
+There he is in his prison denim. Normally he's dressed in a conservative three-piece suit.
+
+0:59:52 --> 0:59:56
+It really looks more like a banker than what we think of as a working class radical.
+
+0:59:57 --> 0:59:59
+There he is in his prison denims receiving the nomination from...
+
+
+[Speaker 1]
+1:00:00 --> 1:00:02
+what's left of the socialist party at that point.
+
+
+[Speaker 4]
+1:00:04 --> 1:00:08
+Although there were only about 20,000 registered socialists left,
+
+1:00:09 --> 1:00:11
+Debs got nearly one million votes in the election.
+
+
+[Speaker 6]
+1:00:13 --> 1:00:19
+His supporters outside the prison set him letters and boxes of fruit, candy and tobacco.
+
+1:00:19 --> 1:00:21
+They also wrote petitions to the government.
+
+
+[Speaker 4]
+1:00:22 --> 1:00:27
+And after serving two years and eight months in prison, he was released.
+
+
+[Speaker 7]
+1:00:30 --> 1:00:41
+When he comes out of the prison, the director of the prison had opened the cell doors,
+
+1:00:42 --> 1:00:48
+which is a no-no in most gels, to say goodbye.
+
+1:00:51 --> 1:00:59
+And indeed, he's walking down this curved pathway out to the red quarries.
+
+1:01:00 --> 1:01:02
+And he turns into a sack.
+
+
+[Speaker 5]
+1:01:11 --> 1:01:17
+Jean came back to Teraho and the New York Times reported that 50,000 of Debs supporters
+
+1:01:17 --> 1:01:22
+greeted him at the train station a few blocks from the house and escorted him back to his home on
+
+1:01:22 --> 1:01:27
+eighth straight. I mean, why was the right word there? Because that's almost Teraho's population
+
+1:01:27 --> 1:01:31
+then and today. And she gave you an idea of the scope and scale of how loved Debs was.
+
+1:01:31 --> 1:01:37
+It's not an exaggeration to say that he was considered a martyr for his cause by his supporters
+
+1:01:37 --> 1:01:40
+and never recovered from the toll that prison took on his health.
+
+
+[Speaker 7]
+1:01:47 --> 1:01:53
+When I think of Jean Debs' legacy, I think of people. I think of Dorothy Day,
+
+1:01:54 --> 1:02:02
+the Catholic worker. I think of Norman Thomas, the socialist presidential candidate in the
+
+1:02:02 --> 1:02:08
+late 20s and early 30s. I think of Michael Harrington, social activist and writer and,
+
+1:02:09 --> 1:02:12
+et cetera, in the 60s, 70s and 80s.
+
+
+[Speaker 1]
+1:02:12 --> 1:02:19
+I think many people who are sympathetic to the left ever since then look back on that as a
+
+1:02:19 --> 1:02:24
+golden moment where a growing number of people could conceive that America could be socialist.
+
+1:02:25 --> 1:02:30
+Socialism, you know, it's a third party succeeded in accomplishing many of the things
+
+1:02:30 --> 1:02:36
+that we now take for granted as just part of the liberal state. You know, the social
+
+1:02:36 --> 1:02:43
+safety network, the government oversight of health and welfare, some controls over the
+
+1:02:43 --> 1:02:48
+financial system. Those are all part of the socialist program that were adopted first by the
+
+1:02:48 --> 1:02:52
+progressives in the early 20th century and then many of them by the New Deal and some of them
+
+1:02:52 --> 1:02:59
+ultimately by the great society programs in the 60s. So there's this long legacy of socialist ideas
+
+1:02:59 --> 1:03:05
+at a very important moment when America was facing the beginnings of this ongoing industrial
+
+
+[Speaker 5]
+1:03:05 --> 1:03:12
+revolution. If you boil down his legacy and what it means to us now, it's these two concepts of
+
+1:03:13 --> 1:03:19
+optimism and solidarity and I hope that's not cliche because devs as an optimist, it wasn't this
+
+1:03:19 --> 1:03:24
+polyanna like, oh, it's going to be okay. Everything's going to work out in the end type of thing.
+
+1:03:24 --> 1:03:29
+He understood that it was a struggle and that people would have to actually put effort into making
+
+1:03:29 --> 1:03:36
+this change happen. But he did believe that regular people are capable of enacting huge changes
+
+1:03:36 --> 1:03:38
+that change the course of history.
+
+
+[Speaker 6]
+1:03:43 --> 1:04:06
+That's it for this week's show. I'm Rando Abdefaatah. I'm Ramteen Adablui and you've been listening
+
+
+[Speaker 4]
+1:04:07 --> 1:04:13
+to through live from NPR. This episode was produced by me and me and Jamie York Austin Horn
+
+
+[Speaker 6]
+1:04:13 --> 1:04:18
+learned Swoo. Lane Kaupen-Levenson. Lou Olkowski. Nighty-Ree E-Ton.
+
+1:04:18 --> 1:04:23
+Fact checking for this episode was done by Kevin Vocal. Thanks also to Anya Grunner.
+
+1:04:24 --> 1:04:30
+Our music was composed by Ramteen and his band Drop Electric which includes Anya, Mizani.
+
+
+[Speaker 4]
+1:04:30 --> 1:04:36
+Navid Marvy. Show Fujiwara. Special thanks to Will Jarvis. Peter Breslow.
+
+1:04:36 --> 1:04:40
+Net Warren. And Reynau Tahon for their voice over work.
+
+
+[Speaker 6]
+1:04:40 --> 1:04:46
+If you have an idea or like something on the show, please write us at throughlineandnpr.org.
+
+1:04:46 --> 1:04:51
+Or find us on Twitter at throughlinenpr. Thanks for listening and stay safe.
+
+
+[Speaker 3]
+1:05:00 --> 1:05:21
+This message comes from NPR sponsor Ari Aikoop. You can't make more time but when you opt outside,
+
+1:05:21 --> 1:05:27
+you can make the most of it. So make time for those early mornings, last minute trips and timeless
+
+1:05:27 --> 1:05:32
+views for small victories, big fails and everything in between. And when you're ready,
+
+1:05:32 --> 1:05:37
+REI has the gear, clothing, classes and advice to help you make the most of your time out there.
+
+1:05:37 --> 1:05:42
+Visit your local Ari Aikoop or REI.com slash opt outside.
+
+1:05:43 --> 1:05:49
+This message comes from Warpy Parker. Prescription I wear that's expertly crafted and unexpectedly
+
+1:05:49 --> 1:05:54
+affordable. Glasses designed in-house from premium materials starting at just $95 including
+
+1:05:54 --> 1:05:58
+prescription lenses. Stop by a Warpy Parker store near you.
+
+
+[Speaker 2]
+1:05:59 --> 1:06:05
+President Trump is back in Washington pursuing major policy changes on his own terms.
+
+1:06:05 --> 1:06:07
+We know from the past that means challenging President,
+
+1:06:07 --> 1:06:12
+busting norms and pushing against the status quo. NPR is covering it all with Trump's terms,
+
+1:06:12 --> 1:06:18
+a podcast where we curate stories about the 47th President with the focus on how he is upending
+
+1:06:18 --> 1:06:28
+the way Washington works. Listen to Trump's terms from NPR.
